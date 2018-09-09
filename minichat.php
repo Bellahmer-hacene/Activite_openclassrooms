@@ -7,7 +7,7 @@ session_start();
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Mini-chat</title>
+        <title>Mini-chat Openclassrooms</title>
     </head>
     <style>
         form
